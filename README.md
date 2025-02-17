@@ -4,6 +4,7 @@
 3. [Gráficos](#Gráficos)
 4. [Insights](#Insights)
 
+![image](https://github.com/user-attachments/assets/59c540c3-f2e8-4c0d-852f-6be8378b5bc3)
 
 
 ## Introdução
