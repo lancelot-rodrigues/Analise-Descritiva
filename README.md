@@ -1,8 +1,7 @@
 # índice
 1. [Introdução](#Introdução)
-2. [Método SAPE](#Método_SAPE)
-3. [Gráficos](#Gráficos)
-4. [Insights](#Insights)
+2. [Gráficos](#Gráficos)
+3. [Insights](#Insights)
 
 ![image](https://github.com/user-attachments/assets/59c540c3-f2e8-4c0d-852f-6be8378b5bc3)
 
@@ -31,20 +30,6 @@ cuja resposta ajudam na tomada de decisão.
 e após o onboarding da empresa, já recebeu o seu primeiro desafio: 
 Analisar os pedidos de compra e trazer insights para o área de negócio. Em 
 outras palavras, como estão indo os pedidos da SuperStore?
-
-## Método SAPE
-
--  O método SAPE é uma estratégia em etapas para determinar o que será 
-entregue a clientes ou empresas em termos de produto de dados.
-- O primeiro passo é determinar a saída, ou seja, o produto final que será 
-entregue, que pode variar desde uma análise até um algoritmo de 
-Machine Learning.
-- O segundo passo é planejar o processo, que envolve todas as tarefas 
-necessárias para construir e entregar o produto de dados.
-- O terceiro passo é identificar as entradas, que são as fontes de dados 
-disponíveis para a construção do produto de dados.
-- O mapeamento dessas fontes é crucial para entender quais dados 
-estão disponíveis e verificar as permissões de acesso.
 
 ## Gráficos
 
